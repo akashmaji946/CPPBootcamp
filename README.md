@@ -8,7 +8,7 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
 
 ## Who & Why & What
 - 👋 Hello, We are Akash Maji & Gopal Patel (Your Instructors)
-- 👀 This 6-week long free python course is brought to you by "INSPIRE CLUB, MANIT, BHOPAL"
+- 👀 This 6-week long premium C++ course is brought to you by "INSPIRE CLUB, MANIT, BHOPAL"
 - 🌱 You will find all the course administravia here.
 - 💞️ We are looking forward to help you learn C++ :)
 - 📫 Join telegram group for updates and doubts: Click => [Telegram Group](https://t.me/joinchat/lWrp4XgOmfo3NjRl "INSPIRE C++ TELEGRAM GROUP")
