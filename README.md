@@ -29,6 +29,8 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
 ## C++ Live Sessions:
 
 ### Week 1
+[Monday | 21-June-2021 | Day 00](https://us02web.zoom.us/rec/share/YlVaCvRYwBlYbTJFRsCS--n_xyoIklP8vdWqTf1s8bToI2dLJokO9Zt2F_ynb4Qb.jc2WwH8HdL2quAcI "Watch Now")
+<br>
 
 <br>
 
