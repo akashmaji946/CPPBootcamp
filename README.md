@@ -14,14 +14,12 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
 
 ## Unit Test 1 (Inspire C++ Premium Course) Result:
  
- <br>
- ## Special Sessions
+<br>
+## Special Sessions
 
- <br>
- 
- ### Doubt Sessions
-
- <br>
+<br>
+### Doubt Sessions
+<br>
  
 
 ## C++ Live Sessions:
