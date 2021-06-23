@@ -1,0 +1,9 @@
+~/Day-1-CPP$ g++ 01_01_main.cpp 
+
+~/Day-1-CPP$ ./a.out 
+Hello CPP Buddies
+
+~/Day-1-CPP$ ./a.out 
+Hello CPP Buddies
+
+~/Day-1-CPP$ 
