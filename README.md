@@ -29,10 +29,11 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
 ## C++ Live Sessions:
 
 ### Week 1
-Monday | 21-June-2021 | Day 00 [Click Here](https://us02web.zoom.us/rec/share/YlVaCvRYwBlYbTJFRsCS--n_xyoIklP8vdWqTf1s8bToI2dLJokO9Zt2F_ynb4Qb.jc2WwH8HdL2quAcI "Watch Now")
+😇 Monday | 21-June-2021 | Day 00 | [Click Here](https://us02web.zoom.us/rec/share/YlVaCvRYwBlYbTJFRsCS--n_xyoIklP8vdWqTf1s8bToI2dLJokO9Zt2F_ynb4Qb.jc2WwH8HdL2quAcI "Watch Now")
 <br>
-Tuesday | 22-June-2021 | Day 01 [Click Here](https://us02web.zoom.us/rec/share/dqPhYofExXdJRtO6x7yTh5nkbwvLN1PfCSYr_ZH86EN3so5y9CbjQXE4szmq7Mnc.8kU0-J3BKaSIhksH "Watch Now")
+😍 Tuesday | 22-June-2021 | Day 01  | [Click Here](https://us02web.zoom.us/rec/share/dqPhYofExXdJRtO6x7yTh5nkbwvLN1PfCSYr_ZH86EN3so5y9CbjQXE4szmq7Mnc.8kU0-J3BKaSIhksH "Watch Now")
 <br>
+🥰 Wednesday | 23-June-2021 | Day 02 | [Click Here](https://us02web.zoom.us/rec/share/vNm0JctPEJyC9t7jn-iNgoE8icymnG31sHdG1-_HBeYZ0ICZW3wra2fQa_NU7Zjc.-4gn-6nad3jqZSRk "Watch Now")
 
 <br>
 
