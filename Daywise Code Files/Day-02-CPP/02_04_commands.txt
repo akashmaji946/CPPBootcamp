@@ -1,0 +1,20 @@
+~/Day-02-CPP$ g++ input.cpp
+
+~/Day-02-CPP$ ./a.out
+Enter Your Age: 13
+Your age is: 13
+Enter Your Name: Akash
+Your name is: Akash
+
+~/Day-02-CPP$ ./a.out
+Enter Your Age: 123456789011
+Your age is: 2147483647
+Enter Your Name: Your name is: 
+
+~/Day-02-CPP$ g++ input.cpp
+
+~/Day-02-CPP$ ./a.out
+Enter Your Age: 12345899999999
+Your age is: 12345899999999
+Enter Your Name: Akash Maji
+Your name is: Akash
