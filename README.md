@@ -2,6 +2,7 @@
 ## This is a repository for the premium online course: C++ Complete Bootcamp
 ### This course is brought to you by Inspire Club, MANIT Bhopal
 <br>
+
 # CPP_June_2021_Inspire
 Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2021) classes
 
@@ -20,7 +21,7 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
 
 <br>
 
-### Doubt Sessions
+## Doubt Sessions
 
 
 <br>
