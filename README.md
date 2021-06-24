@@ -11,7 +11,7 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
 - 👀 This 6-week long premium C++ course is brought to you by "INSPIRE CLUB, MANIT, BHOPAL"
 - 🌱 You will find all the course administravia here.
 - 💞️ We are looking forward to help you learn C++ :)
-- 📫 Join telegram group for updates and doubts: Click => [Telegram Group](https://t.me/joinchat/lWrp4XgOmfo3NjRl "INSPIRE C++ TELEGRAM GROUP")
+- 📫 Join WhatsApp Group for updates and doubts: Click => [WhatsApp Group](https://chat.whatsapp.com/CmHRJEeGbxn9ur3TU959r1 "INSPIRE C++ WHATASAPP GROUP")
 
 ## Unit Test 1 (Inspire C++ Premium Course) Result:
  
@@ -28,7 +28,7 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
  
 ## C++ Live Sessions:
 
-### Week 1
+### Week 1 [Free]
 😇 Monday | 21-June-2021 | Day 00 | [Click Here](https://us02web.zoom.us/rec/share/YlVaCvRYwBlYbTJFRsCS--n_xyoIklP8vdWqTf1s8bToI2dLJokO9Zt2F_ynb4Qb.jc2WwH8HdL2quAcI "Watch Now")
 <br>
 😍 Tuesday | 22-June-2021 | Day 01  | [Click Here](https://us02web.zoom.us/rec/share/dqPhYofExXdJRtO6x7yTh5nkbwvLN1PfCSYr_ZH86EN3so5y9CbjQXE4szmq7Mnc.8kU0-J3BKaSIhksH "Watch Now")
