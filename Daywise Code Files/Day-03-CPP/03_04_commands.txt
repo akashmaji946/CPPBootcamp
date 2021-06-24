@@ -1,0 +1,38 @@
+~/Day-03-CPP$ g++ perimeter.cpp 
+~/Day-03-CPP$ ./a.out
+30
+~/Day-03-CPP$ ./a.out
+30
+~/Day-03-CPP$ g++ perimeter.cpp 
+~/Day-03-CPP$ ./a.out
+Enter length and breadth: 100
+80
+perimeter: 360
+~/Day-03-CPP$ g++ area.cpp
+~/Day-03-CPP$ ./a.out
+10 5
+25
+~/Day-03-CPP$ ./a.out
+7 5
+17
+~/Day-03-CPP$ ./a.out
+7 5
+17
+~/Day-03-CPP$ g++ area.cpp
+~/Day-03-CPP$ ./a.out
+7 5
+17 17.5
+~/Day-03-CPP$ 
+~/Day-03-CPP$ 
+~/Day-03-CPP$ 
+~/Day-03-CPP$ 
+~/Day-03-CPP$ 
+~/Day-03-CPP$ 
+~/Day-03-CPP$ 
+~/Day-03-CPP$ 
+~/Day-03-CPP$ whoami
+runner
+~/Day-03-CPP$ ./a.out
+8 7
+28 28
+~/Day-03-CPP$ 
