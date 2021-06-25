@@ -1,0 +1,124 @@
+~/Day-04-CPP$ g++ expressions.cpp 
+~/Day-04-CPP$ ./a.out 
+11.5
+20
+1
+~/Day-04-CPP$ g++ expressions.cpp 
+~/Day-04-CPP$ ./a.out 
+11.5
+20
+0
+~/Day-04-CPP$ g++ expressions.cpp 
+~/Day-04-CPP$ ./a.out 
+11.5
+20
+false
+~/Day-04-CPP$ g++ expressions.cpp 
+~/Day-04-CPP$ ./a.out 
+11.5
+20
+false
+true
+~/Day-04-CPP$ g++ expressions.cpp 
+~/Day-04-CPP$ ./a.out 
+11.5
+20
+false
+false
+~/Day-04-CPP$ g++ expressions.cpp 
+~/Day-04-CPP$ ./a.out 
+11.5
+20
+false
+false
+10
+~/Day-04-CPP$ g++ expressions.cpp 
+~/Day-04-CPP$ ./a.out 
+11.5
+20
+false
+false
+10
+~/Day-04-CPP$ g++ expressions.cpp 
+~/Day-04-CPP$ ./a.out
+11.5
+20
+false
+false
+10
+~/Day-04-CPP$ g++ expressions.cpp 
+~/Day-04-CPP$ ./a.out
+11.5
+20
+false
+false
+10
+~/Day-04-CPP$ g++ expressions.cpp 
+~/Day-04-CPP$ ./a.out
+11.5
+20
+false
+false
+5
+~/Day-04-CPP$ g++ manipulators.cpp 
+~/Day-04-CPP$ ./a.out
+Hello World
+123.456
+13
+~/Day-04-CPP$ g++ manipulators.cpp 
+~/Day-04-CPP$ ./a.out
+Hello World
+123.456
+13
+12.8
+~/Day-04-CPP$ g++ expressions.cpp 
+~/Day-04-CPP$ ./a.out
+11.5
+20
+false
+false
+5
+~/Day-04-CPP$ g++ expressions.cpp 
+~/Day-04-CPP$ ./a.out
+11.5
+20
+false
+false
+5
+~/Day-04-CPP$ g++ expressions.cpp 
+~/Day-04-CPP$ g++ manipulators.cpp 
+~/Day-04-CPP$ ./a.out
+Hello World
+123.456
+13
+12.8
+5
+~/Day-04-CPP$ g++ manipulators.cpp 
+~/Day-04-CPP$ ./a.out
+Hello World
+   123.456
+13
+12.8
+5
+~/Day-04-CPP$ g++ manipulators.cpp 
+~/Day-04-CPP$ ./a.out
+Hello World
+   123.456
+13
+12.8
+100
+~/Day-04-CPP$ g++ manipulators.cpp 
+~/Day-04-CPP$ ./a.out
+Hello World
+   123.456
+13
+12.8
+100
+~/Day-04-CPP$ g++ manipulators.cpp 
+~/Day-04-CPP$ ./a.out
+Hello World
+100
+   123.456
+13
+12.8
+~/Day-04-CPP$ 
