@@ -35,7 +35,10 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
 <br>
 🥰 Wednesday | 23-June-2021 | Day 02 | [Click Here](https://us02web.zoom.us/rec/share/vNm0JctPEJyC9t7jn-iNgoE8icymnG31sHdG1-_HBeYZ0ICZW3wra2fQa_NU7Zjc.-4gn-6nad3jqZSRk "Watch Now")
 <br>
-🥰 Thursday | 24-June-2021 | Day 03 | [Click Here](https://us02web.zoom.us/rec/share/DPBC919n_U1Ym6ePQ04iHQmL5S5T6D7wbPS7tC9R0PWUpzdj4_eBUyU7YFyde9VB.gbXpUDx84QIBaJql "Watch Now")
+😇 Thursday | 24-June-2021 | Day 03 | [Click Here](https://us02web.zoom.us/rec/share/DPBC919n_U1Ym6ePQ04iHQmL5S5T6D7wbPS7tC9R0PWUpzdj4_eBUyU7YFyde9VB.gbXpUDx84QIBaJql "Watch Now")
+<br>
+😍 Friday | 25-June-2021 | Day 04 | [Click Here]("https://us02web.zoom.us/rec/share/8TpwDF29E6rgLFrd83QRt3tRattUqXH_pdcrdahmctyVGxkCFML5C80v5IU8cYMz.OmGP99ekvZga0qqD Watch Now")
+<br>
 
 <br>
 
