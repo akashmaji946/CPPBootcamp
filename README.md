@@ -42,12 +42,14 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
 
 <br>
 
-### Week 2
+### Week 2 [Use Access Code]
 😍 Monday | 28-June-2021 | Day 05 | [Click Here](https://us02web.zoom.us/rec/share/VPLMhkmIiIQ8I_64fUdfusC5F1NITjCoqgf0Ua5FYhfz7psq4XruHZj-ywpHNDBs.sMp5wFZOalytyQfO "Watch Now")
 <br>
 😇 Tuesday | 29-June-2021 | Day 06 | [Click Here](https://us02web.zoom.us/rec/share/3LurL2XLV4zkROsQ9PGMBfLbd6f7nZB9iohVPTnpthBfAdNYjM5njNGXal15Q8yr.zP5k5NVrZoyQiMpF "Watch Now")
 <br>
-😇 Tuesday | 30-June-2021 | Day 07 | Part 2 | [Click Here](https://us02web.zoom.us/rec/share/Fe3xvNznWpulZPOwtWR75UnlvJZmSLmNKMbmCCTJWTOHp0uaMIJr7ms90d3RLTiH.RsexzJ4QeJSW18qM "Watch Now")
+🥰 Wednesday | 30 -June-2021 | Day 07 | Part 1 | [Click Here](https://us02web.zoom.us/rec/share/QItkMaHQqxRt29OxeojIPrBN7r22yGNAX2t-VowlqeXduL65ASySeRLjVv77pr6q.TkSjycG-z55kUWGE "Watch Now")
+<br>
+🥰 Wednesday | 30-June-2021 | Day 07 | Part 2 | [Click Here](https://us02web.zoom.us/rec/share/Fe3xvNznWpulZPOwtWR75UnlvJZmSLmNKMbmCCTJWTOHp0uaMIJr7ms90d3RLTiH.RsexzJ4QeJSW18qM "Watch Now")
 <br>
 
 <br>
