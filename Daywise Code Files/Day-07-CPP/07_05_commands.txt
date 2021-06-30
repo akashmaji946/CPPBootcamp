@@ -1,0 +1,34 @@
+~/Day-07-CPP$ ./a.out
+2021
+Year is not leap
+~/Day-07-CPP$ g++ max_of_3.cpp 
+~/Day-07-CPP$ ./a.out
+12 10 13
+13 is largest
+~/Day-07-CPP$ ./a.out
+13 12 10
+13 is largest
+~/Day-07-CPP$ ./a.out
+10 13 12
+13 is largest
+~/Day-07-CPP$ ./a.out
+10 10 10
+10 is largest
+~/Day-07-CPP$ ./a.out
+12 12 10
+10 is largest
+~/Day-07-CPP$ ./a.out
+12 12 10
+10 is largest
+~/Day-07-CPP$ g++ max_of_3.cpp 
+~/Day-07-CPP$ ./a.out 
+12 12 10
+12 is largest
+~/Day-07-CPP$ 10 12 12
+bash: 10: command not found
+~/Day-07-CPP$ ./a.out 
+10 12 12
+12 is largest
+~/Day-07-CPP$ 12 13 14
+bash: 12: command not found
+~/Day-07-CPP$ ./a.out 
