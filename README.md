@@ -51,6 +51,10 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
 <br>
 🥰 Wednesday | 30-June-2021 | Day 07 | Part 2 | [Click Here](https://us02web.zoom.us/rec/share/Fe3xvNznWpulZPOwtWR75UnlvJZmSLmNKMbmCCTJWTOHp0uaMIJr7ms90d3RLTiH.RsexzJ4QeJSW18qM "Watch Now")
 <br>
+🥰 Thursday | 1-July-2021 |EXAM LEAVE | No Class |
+<br>
+🥰 Friday | 2-July-2021 | EXAM LEAVE | No Class |
+<br>
 
 <br>
 
