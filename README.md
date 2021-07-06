@@ -61,6 +61,8 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
 ### Week 3 [Use Access Code]
 😍 Monday | 05-July-2021 | Day 08 | [Click Here](https://us02web.zoom.us/rec/share/Cg6NN6ObyHmuiNhFaLgIM5iFnVRALTX1Xnd4mnTIJK6mr4T3qYUmqT5B9hOACJ4m.Zh9_M9Qn5N8XrTHu "Watch Now")
 <br>
+🥰 Tuesday | 06-July-2021 | Day 09 | [Click Here](https://us02web.zoom.us/rec/share/bIUOnyD2VkHJy7a0JpTfuyxfkJoLXr4ec2lIRkTxNi8OqvC0cDNS6_jJ_KE0JX8L.1T0HBEUYl0e_YUjW "Watch Now")
+<br>
 
 <br>
 
