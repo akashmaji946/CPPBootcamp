@@ -13,6 +13,21 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
 - 💞️ We are looking forward to help you learn C++ :)
 - 📫 Join WhatsApp Group for updates and doubts: Click => [WhatsApp Group](https://chat.whatsapp.com/CmHRJEeGbxn9ur3TU959r1 "INSPIRE C++ WHATASAPP GROUP")
 
+## Quizzes & Assignments
+😇 Take Your Quiz Here | C++ Basic Quiz No. 1 | [Attempt Here](https://bit.ly/2TY6WUa "Take Now")
+<br>
+😇 Upload Your Assignment Here | Assignment No. 1 | [Upload Here](bit.ly/3hfVkVt "Upload Now")
+<br>
+😇 Take Your Quiz Here | C++ Basic Quiz No. 2 | [Attempt Here]( "Take Now")
+<br>
+😇 Upload Your Assignment Here | Assignment No. 2 | [Upload Here]( "Upload Now")
+<br>
+
+
+
+<br>
+
+
 ## Unit Test 1 (Inspire C++ Premium Course) Result:
  
 <br>
