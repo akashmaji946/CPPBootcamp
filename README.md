@@ -16,16 +16,16 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
 ## Quizzes & Assignments
 😇 C++ Basic Quiz No. 1 | [Attempt Here](https://bit.ly/2TY6WUa "Take Now")
 <br>
-😇 Assignment No. 1 Questions | [See Here](bit.ly/3qPcgFO "See Now")
+😇 Assignment No. 1 Questions | [See Here](https://bit.ly/3qPcgFO "See Now")
 <br>
-😇 Assignment No. 1 Solutions | [Upload Here](bit.ly/3hfVkVt "Upload Now")
+😇 Assignment No. 1 Solutions | [Upload Here](https://bit.ly/3hfVkVt "Upload Now")
 <br>
 <br>
-😇 C++ Basic Quiz No. 2 | [Attempt Here](bit.ly/2UpxXjo "Take Now")
+😇 C++ Basic Quiz No. 2 | [Attempt Here](https://bit.ly/2UpxXjo "Take Now")
 <br>
-😇 Assignment No. 2 Questions | [See Here](bit.ly/3r0RdzQ "See Now")
+😇 Assignment No. 2 Questions | [See Here](https://bit.ly/3r0RdzQ "See Now")
 <br>
-😇 Assignment No. 2 Solutions | [Upload Here](bit.ly/3e3fLmP "Upload Now")
+😇 Assignment No. 2 Solutions | [Upload Here](https://bit.ly/3e3fLmP "Upload Now")
 <br>
 <br>
 
