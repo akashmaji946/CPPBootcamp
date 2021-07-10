@@ -14,13 +14,19 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
 - 📫 Join WhatsApp Group for updates and doubts: Click => [WhatsApp Group](https://chat.whatsapp.com/CmHRJEeGbxn9ur3TU959r1 "INSPIRE C++ WHATASAPP GROUP")
 
 ## Quizzes & Assignments
-😇 Take Your Quiz Here | C++ Basic Quiz No. 1 | [Attempt Here](https://bit.ly/2TY6WUa "Take Now")
+😇 C++ Basic Quiz No. 1 | [Attempt Here](https://bit.ly/2TY6WUa "Take Now")
 <br>
-😇 Upload Your Assignment Here | Assignment No. 1 | [Upload Here](bit.ly/3hfVkVt "Upload Now")
+😇 Assignment No. 1 Questions | [See Here](bit.ly/3qPcgFO "See Now")
 <br>
-😇 Take Your Quiz Here | C++ Basic Quiz No. 2 | [Attempt Here]( "Take Now")
+😇 Assignment No. 1 Solutions | [Upload Here](bit.ly/3hfVkVt "Upload Now")
 <br>
-😇 Upload Your Assignment Here | Assignment No. 2 | [Upload Here]( "Upload Now")
+<br>
+😇 C++ Basic Quiz No. 2 | [Attempt Here](bit.ly/2UpxXjo "Take Now")
+<br>
+😇 Assignment No. 2 Questions | [See Here](bit.ly/3r0RdzQ "See Now")
+<br>
+😇 Assignment No. 2 Solutions | [Upload Here](bit.ly/3e3fLmP "Upload Now")
+<br>
 <br>
 
 
