@@ -38,12 +38,7 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
  
 <br>
 
-## Special Sessions
-
-<br>
-
-## Doubt Sessions
-
+## Special & Doubt Solving Sessions
 
 <br>
  
