@@ -38,7 +38,13 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
  
 <br>
 
-## Special & Doubt Solving Sessions
+## Special & Doubt Solving Sessions [Use Passcode]
+😇 Sunday | 11-July-2021 | Day 12 | Part 1 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EURUzmm1DF1Li6LcmKX4jNQBQt5lDy4ef8nu0CGg0I6DXg "Watch Now")
+<br>
+😇 Sunday | 11-July-2021 | Day 12 | Part 2 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EWrnEtvtnXZNnBwJAeuZDKcBt2tEK2hgntrLh5bavEBkcg "Watch Now")
+<br>
+<br>
+
 
 <br>
  
