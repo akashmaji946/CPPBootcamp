@@ -45,6 +45,10 @@ Github repo for all C++ codes and slides and pdf(s) for C++ Premium (June-July 2
 <br>
 <br>
 
+😇 Monday | 12-July-2021 | Day 13 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/ERuTiRu-WGxMoYAWYeCz_kgBfhuWjCBLln7oBbcQfmQ2Ag "Watch Now")
+<br>
+
+
 
 <br>
  
