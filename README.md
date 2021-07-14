@@ -103,6 +103,9 @@ Github repo for all C++ codes and slides and pdf(s) and assessments for C++ Prem
 ### Week 4 [Use Access Code]
 🥰 Tuesday | 13-July-2021 | Day 14 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EV8qGOT1JvxHhhzuus2HpyIBBDS5dXzrU_yYdDlWTwju9g "Watch Now")
 <br>
+🥰 Wednesday | 14-July-2021 | Day 15 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EcPQAXZmtOpCgaTrGLksANQBClggEKaWXy_qcVdmM7G5kQ "Watch Now")
+<br>
+
 
 
 <br>
