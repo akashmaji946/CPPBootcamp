@@ -69,17 +69,17 @@ Github repo for all C++ codes and slides and pdf(s) and assessments for C++ Prem
 <br>
 
 ### Week 2 [Use Access Code]
-😍 Monday | 28-June-2021 | Day 05 | [Click Here](https://us02web.zoom.us/rec/share/VPLMhkmIiIQ8I_64fUdfusC5F1NITjCoqgf0Ua5FYhfz7psq4XruHZj-ywpHNDBs.sMp5wFZOalytyQfO "Watch Now")
+😇 Monday | 28-June-2021 | Day 05 | [Click Here](https://us02web.zoom.us/rec/share/VPLMhkmIiIQ8I_64fUdfusC5F1NITjCoqgf0Ua5FYhfz7psq4XruHZj-ywpHNDBs.sMp5wFZOalytyQfO "Watch Now")
 <br>
 😇 Tuesday | 29-June-2021 | Day 06 | [Click Here](https://us02web.zoom.us/rec/share/3LurL2XLV4zkROsQ9PGMBfLbd6f7nZB9iohVPTnpthBfAdNYjM5njNGXal15Q8yr.zP5k5NVrZoyQiMpF "Watch Now")
 <br>
-🥰 Wednesday | 30 -June-2021 | Day 07 | Part 1 | [Click Here](https://us02web.zoom.us/rec/share/QItkMaHQqxRt29OxeojIPrBN7r22yGNAX2t-VowlqeXduL65ASySeRLjVv77pr6q.TkSjycG-z55kUWGE "Watch Now")
+😇 Wednesday | 30 -June-2021 | Day 07 | Part 1 | [Click Here](https://us02web.zoom.us/rec/share/QItkMaHQqxRt29OxeojIPrBN7r22yGNAX2t-VowlqeXduL65ASySeRLjVv77pr6q.TkSjycG-z55kUWGE "Watch Now")
 <br>
-🥰 Wednesday | 30-June-2021 | Day 07 | Part 2 | [Click Here](https://us02web.zoom.us/rec/share/Fe3xvNznWpulZPOwtWR75UnlvJZmSLmNKMbmCCTJWTOHp0uaMIJr7ms90d3RLTiH.RsexzJ4QeJSW18qM "Watch Now")
+😇 Wednesday | 30-June-2021 | Day 07 | Part 2 | [Click Here](https://us02web.zoom.us/rec/share/Fe3xvNznWpulZPOwtWR75UnlvJZmSLmNKMbmCCTJWTOHp0uaMIJr7ms90d3RLTiH.RsexzJ4QeJSW18qM "Watch Now")
 <br>
-🥰 Thursday | 1-July-2021 | EXAM LEAVE | No Class |
+😇 Thursday | 1-July-2021 | EXAM LEAVE | No Class |
 <br>
-🥰 Friday | 2-July-2021 | EXAM LEAVE | No Class |
+😇 Friday | 2-July-2021 | EXAM LEAVE | No Class |
 <br>
 
 <br>
@@ -87,15 +87,15 @@ Github repo for all C++ codes and slides and pdf(s) and assessments for C++ Prem
 ### Week 3 [Use Access Code]
 😍 Monday | 05-July-2021 | Day 08 | [Click Here](https://us02web.zoom.us/rec/share/Cg6NN6ObyHmuiNhFaLgIM5iFnVRALTX1Xnd4mnTIJK6mr4T3qYUmqT5B9hOACJ4m.Zh9_M9Qn5N8XrTHu "Watch Now")
 <br>
-🥰 Tuesday | 06-July-2021 | Day 09 | [Click Here](https://us02web.zoom.us/rec/share/bIUOnyD2VkHJy7a0JpTfuyxfkJoLXr4ec2lIRkTxNi8OqvC0cDNS6_jJ_KE0JX8L.1T0HBEUYl0e_YUjW "Watch Now")
+😍 Tuesday | 06-July-2021 | Day 09 | [Click Here](https://us02web.zoom.us/rec/share/bIUOnyD2VkHJy7a0JpTfuyxfkJoLXr4ec2lIRkTxNi8OqvC0cDNS6_jJ_KE0JX8L.1T0HBEUYl0e_YUjW "Watch Now")
 <br>
-🥰 Wednesday | 07-July-2021 | No Class | 
+😍 Wednesday | 07-July-2021 | No Class | 
 <br>
-🥰 Thursday | 08-July-2021 | No Class | 
+😍 Thursday | 08-July-2021 | No Class | 
 <br>
-🥰 Friday | 09-July-2021 | Day 10 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EUEUCY_n1jBLqGbLjXsS3DQBTw3vXEnHXIfeLzvep6KIHQ "Watch Now")
+😍 Friday | 09-July-2021 | Day 10 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EUEUCY_n1jBLqGbLjXsS3DQBTw3vXEnHXIfeLzvep6KIHQ "Watch Now")
 <br>
-🥰 Saturday | 10-July-2021 | Day 11 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EehTx0R8k69PvKmyRVthhd4BRaWPa_Y1rU6HAnUB0K_o2w "Watch Now")
+😍 Saturday | 10-July-2021 | Day 11 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EehTx0R8k69PvKmyRVthhd4BRaWPa_Y1rU6HAnUB0K_o2w "Watch Now")
 <br>
 
 <br>
@@ -104,6 +104,8 @@ Github repo for all C++ codes and slides and pdf(s) and assessments for C++ Prem
 🥰 Tuesday | 13-July-2021 | Day 14 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EV8qGOT1JvxHhhzuus2HpyIBBDS5dXzrU_yYdDlWTwju9g "Watch Now")
 <br>
 🥰 Wednesday | 14-July-2021 | Day 15 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EcPQAXZmtOpCgaTrGLksANQBClggEKaWXy_qcVdmM7G5kQ "Watch Now")
+<br>
+🥰 Thursday | 15-July-2021 | Day 16 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EbzbZhokvipIhWJQMgthH40BrO0AwxcSV1xLrMjN1uo_bw "Watch Now")
 <br>
 
 
