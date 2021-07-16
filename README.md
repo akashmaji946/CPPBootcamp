@@ -21,11 +21,18 @@ Github repo for all C++ codes and slides and pdf(s) and assessments for C++ Prem
 😇 Assignment No. 1 Solutions | [Upload Here](https://bit.ly/3hfVkVt "Upload Now")
 <br>
 <br>
+
 😇 C++ Basic Quiz No. 2 | [Attempt Here](https://bit.ly/2UpxXjo "Take Now")
 <br>
 😇 Assignment No. 2 Questions | [See Here](https://bit.ly/3r0RdzQ "See Now")
 <br>
 😇 Assignment No. 2 Solutions | [Upload Here](https://bit.ly/3e3fLmP "Upload Now")
+<br>
+<br>
+
+😇 Assignment No. 3 Questions | [See Here](https://bit.ly/3BauRR8 "See Now")
+<br>
+😇 Assignment No. 3 Solutions | [Upload Here](https://bit.ly/3etendo "Upload Now")
 <br>
 <br>
 
