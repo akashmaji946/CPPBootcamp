@@ -116,6 +116,8 @@ Github repo for all C++ codes and slides and pdf(s) and assessments for C++ Prem
 <br>
 🥰 Friday | 16-July-2021 | Day 17 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/ER1NrwGg75JKumoeEJ_qMaIB3HIrm4zx0OmsH8SLWzt8yw "Watch Now")
 <br>
+🥰 Saturday | 17-July-2021 | Day 18 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/ESLyihIdEs5Ii2j8ZeWu1xsBsBiQP4jJ7xkoun1wauvyuA "Watch Now")
+<br>
 
 
 <br>
