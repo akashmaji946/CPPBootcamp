@@ -50,12 +50,9 @@ Github repo for all C++ codes and slides and pdf(s) and assessments for C++ Prem
 <br>
 😇 Sunday | 11-July-2021 | Day 12 | Part 2 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EWrnEtvtnXZNnBwJAeuZDKcBt2tEK2hgntrLh5bavEBkcg "Watch Now")
 <br>
-<br>
 
 😇 Monday | 12-July-2021 | Day 13 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/ERuTiRu-WGxMoYAWYeCz_kgBfhuWjCBLln7oBbcQfmQ2Ag "Watch Now")
 <br>
-<br>
-
 😇 Monday | 19-July-2021 | Day 19 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EWlLuEEAAbpIpC2-rRJbIzQBLjZEMCre2kwaFWk4R3m2Pw "Watch Now")
 <br>
 
