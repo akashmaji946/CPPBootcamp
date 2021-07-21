@@ -109,6 +109,8 @@ Github repo for all C++ codes and slides and pdf(s) and assessments for C++ Prem
 <br>
 
 ### Week 4 [Use Access Code]
+🥰 Monday | 12-July-2021 | Day 13 | Problem Solving Class | See Above
+<br>
 🥰 Tuesday | 13-July-2021 | Day 14 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EV8qGOT1JvxHhhzuus2HpyIBBDS5dXzrU_yYdDlWTwju9g "Watch Now")
 <br>
 🥰 Wednesday | 14-July-2021 | Day 15 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EcPQAXZmtOpCgaTrGLksANQBClggEKaWXy_qcVdmM7G5kQ "Watch Now")
@@ -123,7 +125,13 @@ Github repo for all C++ codes and slides and pdf(s) and assessments for C++ Prem
 
 <br>
 
-### Week 5
+### Week 5 [Use Access Code]
+🥰 Monday | 19-July-2021 | Day 19 | Problem Solving Class | See Above
+<br>
+🥰 Tuesday | 20-July-2021 | NO CLASS | Class Cancelled
+<br>
+🥰 Wednesday | 21-July-2021 | Day 20 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EYjXGkc1U0tAp8DLQHHohOsBB9SGkZTJMkWf3TWAxo2pLw "Watch Now")
+<br>
 
 <br>
 
