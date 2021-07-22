@@ -132,7 +132,7 @@ Github repo for all C++ codes and slides and pdf(s) and assessments for C++ Prem
 <br>
 🥰 Wednesday | 21-July-2021 | Day 20 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EYjXGkc1U0tAp8DLQHHohOsBB9SGkZTJMkWf3TWAxo2pLw "Watch Now")
 <br>
-
+🥰 Thursday | 22-July-2021 | Day 21 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EeQu8VIAbf9BpRl_QF7hbgUB1wBhUcmqHAMRXM5EQZ86fw "Watch Here")
 <br>
 
 ### Week 6
