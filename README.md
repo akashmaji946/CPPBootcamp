@@ -73,6 +73,8 @@ Github repo for all C++ codes and slides and pdf(s) and assessments for C++ Prem
 <br>
 😍 Friday | 25-June-2021 | Day 04 | [Click Here](https://us02web.zoom.us/rec/share/8TpwDF29E6rgLFrd83QRt3tRattUqXH_pdcrdahmctyVGxkCFML5C80v5IU8cYMz.OmGP99ekvZga0qqD "Watch Now")
 <br>
+😍 Saturday | 26-June-2021 | NO CLASS | 
+<br>
 
 <br>
 
@@ -88,6 +90,8 @@ Github repo for all C++ codes and slides and pdf(s) and assessments for C++ Prem
 😇 Thursday | 1-July-2021 | EXAM LEAVE | No Class |
 <br>
 😇 Friday | 2-July-2021 | EXAM LEAVE | No Class |
+<br>
+😍 Saturday | 3-July-2021 |  EXAM LEAVE | NO CLASS | 
 <br>
 
 <br>
@@ -105,6 +109,9 @@ Github repo for all C++ codes and slides and pdf(s) and assessments for C++ Prem
 <br>
 😍 Saturday | 10-July-2021 | Day 11 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EehTx0R8k69PvKmyRVthhd4BRaWPa_Y1rU6HAnUB0K_o2w "Watch Now")
 <br>
+😍 Saturday | 11-July-2021  | NO CLASS | 
+<br>
+
 
 <br>
 
@@ -134,8 +141,14 @@ Github repo for all C++ codes and slides and pdf(s) and assessments for C++ Prem
 <br>
 🥰 Thursday | 22-July-2021 | Day 21 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EeQu8VIAbf9BpRl_QF7hbgUB1wBhUcmqHAMRXM5EQZ86fw "Watch Here")
 <br>
+😍 Friday | 23-July-2021 |  EXAM LEAVE | NO CLASS | 
+<br>
+😍 Saturday | 24-July-2021 |  EXAM LEAVE | NO CLASS | 
+<br>
 
 ### Week 6 [No Access Code]
+😍 Monday | 02-August-2021 |  EXAM LEAVE | NO CLASS | 
+<br>
 🥰 Tuesday | 03-August-2021 | Day 22 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EZwB0OY0imtCk2hs4c8abGUB0doFdQ8G3IUqLq5fSIvP2A "Watch Now")
 <br>
 🥰 Wednesday | 04-August-2021 | Day 23 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EZEuZ2dr-ClKgBO2WXj0jicBCh4DHY0dqi4nevBXuy2nLg "Watch Now")
