@@ -138,6 +138,8 @@ Github repo for all C++ codes and slides and pdf(s) and assessments for C++ Prem
 ### Week 6 [No Access Code]
 🥰 Tuesday | 03-August-2021 | Day 22 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EZwB0OY0imtCk2hs4c8abGUB0doFdQ8G3IUqLq5fSIvP2A "Watch Now")
 <br>
+🥰 Wednesday | 04-August-2021 | Day 23 | [Click Here](https://wenzs-my.sharepoint.com/:v:/g/personal/akashmaji100_free_stulive_com/EZEuZ2dr-ClKgBO2WXj0jicBCh4DHY0dqi4nevBXuy2nLg "Watch Now")
+<br>
 
 <br>
 
